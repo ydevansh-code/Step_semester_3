@@ -1,4 +1,4 @@
-package week3.practice_problems;
+package week6.practice_problems;
 
 public class PiggyBank {
     private double savings;

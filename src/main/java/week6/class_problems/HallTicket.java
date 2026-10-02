@@ -1,4 +1,4 @@
-package week3.class_problems;
+package week6.class_problems;
 
 public class HallTicket {
     String studentName;
